@@ -3,9 +3,6 @@
 
 
 
-- 💬 Ask me about **Programming & VR Related stuff.**
-
-- ⚡ Fun fact **I am a professional coffee drinker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
