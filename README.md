@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
 <h3 align="center">A passionate Software & Game Developer from, the Netherlands.</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 🔭 I’m currently working on **KLMVR**
 
 - 💬 Ask me about **Programming**
@@ -13,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gds-sander&show_icons=true&locale=en" alt="gds-sander" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
